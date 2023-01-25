@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\wiist\source\repos\cs 235\bst\bst\bst.h(101): warning C4715: 'BST<int>::clearTree': not all control paths return a value
+c:\users\wiist\source\repos\cs 235\bst\bst\bst.h(43): warning C4715: 'BST<int>::addNode': not all control paths return a value
+c:\users\wiist\source\repos\cs 235\bst\bst\bst.h(114): warning C4715: 'BST<int>::find': not all control paths return a value
+c:\users\wiist\source\repos\cs 235\bst\bst\bst.h(43): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::addNode': not all control paths return a value
+c:\users\wiist\source\repos\cs 235\bst\bst\bst.h(101): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::clearTree': not all control paths return a value
+c:\users\wiist\source\repos\cs 235\bst\bst\bst.h(114): warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::find': not all control paths return a value
+  BST.vcxproj -> C:\Users\wiist\source\repos\CS 235\BST\Debug\BST.exe

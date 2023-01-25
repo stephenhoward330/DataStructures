@@ -1,0 +1,42 @@
+
+Expression: 43 + 2 * 7
+Infix: 43 + 2 * 7
+Postfix: 43 2 7 * + 
+Prefix:  + 43 * 2 7
+Value: 57
+
+Expression: 2 + 3 + 555
+Infix: 2 + 3 + 555
+Postfix: 2 3 + 555 + 
+Prefix:  + + 2 3 555
+Value: 560
+
+Expression: 5 / 67 * 29
+Infix: 5 / 67 * 29
+Postfix: 5 67 / 29 * 
+Prefix:  * / 5 67 29
+Value: 0
+
+Expression: 33 + 5 * 6 - 88
+Infix: 33 + 5 * 6 - 88
+Postfix: 33 5 6 * + 88 - 
+Prefix:  - + 33 * 5 6 88
+Value: -25
+
+Expression: 34 + 4 * 21 / 7 + 14
+Infix: 34 + 4 * 21 / 7 + 14
+Postfix: 34 4 21 * 7 / + 14 + 
+Prefix:  + + 34 / * 4 21 7 14
+Value: 60
+
+Expression: 3 + 5 * 6 - 8
+Infix: 3 + 5 * 6 - 8
+Postfix: 3 5 6 * + 8 - 
+Prefix:  - + 3 * 5 6 8
+Value: 25
+
+Expression: 5
+Infix: 5
+Postfix: 5 
+Prefix:  5
+Value: 5

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\wiist\source\repos\grades\grades\source.cpp(134): warning C4101: 'grade': unreferenced local variable
+  Grades.vcxproj -> C:\Users\wiist\source\repos\Grades\Debug\Grades.exe
