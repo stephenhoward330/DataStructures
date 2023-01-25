@@ -1,0 +1,29 @@
+INT true
+insertHead 10 true
+insertHead 9 true
+insertHead 8 true
+insertHead 7 true
+insertHead 6 true
+insertHead 5 true
+insertHead 4 true
+insertHead 3 true
+insertHead 2 true
+insertHead 1 true
+insertHead 0 true
+insertAfter 1 -1 true
+insertAfter 0 9999 true
+insertAfter 10 12 true
+insertAfter 10 12 false
+insertAfter 99 99 false
+size 14
+printList 0 9999 1 -1 2 3 4 5 6 7 8 9 10 12 
+STRING true
+insertTail not true
+insertHead with true
+insertTail dreams. true
+insertHead Die true
+insertAfter with memories, true
+insertAfter Die dreams. false
+insertAfter memories Die false
+size 5
+printList Die with memories, not dreams. 
