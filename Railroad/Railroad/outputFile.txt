@@ -1,0 +1,11 @@
+Add:station 1 OK
+Remove:station OK
+Add:station 2 OK
+Remove:station OK
+Add:station 3 OK
+Remove:station OK
+Add:station 4 OK
+Remove:station OK
+Train:  1 2 3 4
+Remove:station Turntable empty!
+Train:  1 2 3 4

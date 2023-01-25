@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\wiist\source\repos\cs 235\quicksort\quicksort\quicksort.h(57): warning C4715: 'QuickSort<int>::sort': not all control paths return a value
+  Quicksort.vcxproj -> C:\Users\wiist\source\repos\CS 235\Quicksort\Debug\Quicksort.exe
